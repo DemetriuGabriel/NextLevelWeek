@@ -5,11 +5,11 @@
 **Projeto ECOLETA** 
 foi criado para organizar, cadastrar e visibilizar pontos de coleta onde as pessoas possam procurar esses pontos de coleta e com mais facilidade localiza-los para a melhorar do sistema de reciclagem
 
-![PageHome](https://imgur.com/7GoZfpx)
-![Search](https://imgur.com/rJKtNd1)
-![SearchResults](https://imgur.com/YgI8hu6)
-![CreatePoint](https://imgur.com/U1Magas)
-![PointCreate](https://imgur.com/Y0jJnU3)
+![Imgur](https://i.imgur.com/7GoZfpx.png)
+![Imgur](https://i.imgur.com/rJKtNd1.png)
+![Imgur](https://i.imgur.com/YgI8hu6.png)
+![Imgur](https://i.imgur.com/U1Magas.png)
+![Imgur](https://i.imgur.com/Y0jJnU3.png)
 
 ### :trophy: Tecnológias & Frameworks usados
 
